@@ -1,0 +1,33 @@
+{
+  "allowMovement": {
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "xaero.map.gui.GuiMap": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.mcreator.rpgstylemoreweapons.client.gui.AssassinClassChooseScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "xaero.pac.client.gui.MainMenu": true,
+    "net.mcreator.morevillargers.client.gui.InstructionScreen": true,
+    "de.markusbordihn.dailyrewards.client.screen.RewardCompactScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true
+  },
+  "hideBackground": {
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "net.mcreator.morevillargers.client.gui.InstructionScreen": true,
+    "de.markusbordihn.dailyrewards.client.screen.RewardCompactScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true
+  }
+}
