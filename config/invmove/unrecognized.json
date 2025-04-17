@@ -16,7 +16,9 @@
     "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
     "dev.emi.emi.screen.BoMScreen": true,
     "fi.dy.masa.litematica.gui.GuiConfigs": true,
-    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true
+    "fi.dy.masa.litematica.gui.GuiSchematicPlacementsList": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true
   },
   "hideBackground": {
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
@@ -28,6 +30,7 @@
     "net.mcreator.morevillargers.client.gui.InstructionScreen": true,
     "de.markusbordihn.dailyrewards.client.screen.RewardCompactScreen": true,
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
-    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true
   }
 }

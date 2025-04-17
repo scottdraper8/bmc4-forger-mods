@@ -1339,7 +1339,7 @@
 		"Biome Tags" = ["quark:has_fallen_acacia=minecraft:acacia_log", "quark:has_fallen_birch=minecraft:birch_log", "quark:has_fallen_cherry=minecraft:cherry_log", "quark:has_fallen_dark_oak=minecraft:dark_oak_log", "quark:has_fallen_jungle=minecraft:jungle_log", "quark:has_fallen_mangrove=minecraft:mangrove_log", "quark:has_fallen_oak=minecraft:oak_log", "quark:has_fallen_spruce=minecraft:spruce_log"]
 		#Percentage of fallen logs spawning as hollow. Requires Hollow Logs Module to be enabled
 		"Hollow Chance" = 0.7
-		#chance for logs to spawn on water
+		#Chance for logs to spawn on water
 		"On Water Chance" = 0.1
 
 		[world.fallen_logs.dimensions]
@@ -1914,6 +1914,10 @@
 		"Treasure Whitelist" = []
 		#Matrix Enchanting can be done with short (<= 3px blocks) instead of air around the enchanting table. Set this to false to disable this behaviour.
 		"Allow Short Block Enchanting" = true
+		#Set this to true to allow undiscoverable enchantments to be rolled as pieces
+		"Allow Undiscoverable Enchantments" = false
+		#Any undiscoverable enchantment IDs here will be able to appear in matrix enchanting
+		"Undiscoverable Whitelist" = []
 
 	[oddities.magnets]
 		#Any items you place in this list will be derived so that any block made of it will become magnetizable

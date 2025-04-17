@@ -798,6 +798,7 @@
 
 		[types.wood_type.deeperdarker]
 			echo = true
+			bloom = true
 
 		[types.wood_type.mynethersdelight]
 			powdery = true

@@ -84,5 +84,8 @@
   },
   "corpse": {
     "corpse": true
+  },
+  "balm": {
+    "jade": true
   }
 }
