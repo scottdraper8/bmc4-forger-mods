@@ -31,6 +31,7 @@
     "de.markusbordihn.dailyrewards.client.screen.RewardCompactScreen": true,
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
     "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
-    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSettingsScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookHistory": true
   }
 }
